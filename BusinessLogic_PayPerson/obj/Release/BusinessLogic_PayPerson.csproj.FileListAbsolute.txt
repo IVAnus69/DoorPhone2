@@ -1,0 +1,12 @@
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic_PayPerson\bin\Release\BusinessLogic_PayPerson.dll
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic_PayPerson\bin\Release\BusinessLogic_PayPerson.pdb
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic_PayPerson\bin\Release\Model.dll
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic_PayPerson\bin\Release\Repository.dll
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic_PayPerson\bin\Release\Model.pdb
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic_PayPerson\bin\Release\Repository.pdb
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic_PayPerson\bin\Release\Repository.dll.config
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic_PayPerson\obj\Release\BusinessLogic_PayPerson.csproj.AssemblyReference.cache
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic_PayPerson\obj\Release\BusinessLogic_PayPerson.csproj.CoreCompileInputs.cache
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic_PayPerson\obj\Release\BusinessLogic_PayPerson.csproj.CopyComplete
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic_PayPerson\obj\Release\BusinessLogic_PayPerson.dll
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic_PayPerson\obj\Release\BusinessLogic_PayPerson.pdb

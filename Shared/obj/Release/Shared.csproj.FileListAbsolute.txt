@@ -1,0 +1,9 @@
+D:\ПроектыVS\Домофон\DoorPhone\Shared\bin\Release\Shared.dll
+D:\ПроектыVS\Домофон\DoorPhone\Shared\bin\Release\Shared.pdb
+D:\ПроектыVS\Домофон\DoorPhone\Shared\bin\Release\Model.dll
+D:\ПроектыVS\Домофон\DoorPhone\Shared\bin\Release\Model.pdb
+D:\ПроектыVS\Домофон\DoorPhone\Shared\obj\Release\Shared.csproj.AssemblyReference.cache
+D:\ПроектыVS\Домофон\DoorPhone\Shared\obj\Release\Shared.csproj.CoreCompileInputs.cache
+D:\ПроектыVS\Домофон\DoorPhone\Shared\obj\Release\Shared.csproj.CopyComplete
+D:\ПроектыVS\Домофон\DoorPhone\Shared\obj\Release\Shared.dll
+D:\ПроектыVS\Домофон\DoorPhone\Shared\obj\Release\Shared.pdb

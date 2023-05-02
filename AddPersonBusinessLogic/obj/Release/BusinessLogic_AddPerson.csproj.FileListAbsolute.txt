@@ -1,0 +1,14 @@
+D:\ПроектыVS\Домофон\DoorPhone\AddPersonBusinessLogic\bin\Release\AddPersonBusinessLogic.dll
+D:\ПроектыVS\Домофон\DoorPhone\AddPersonBusinessLogic\bin\Release\AddPersonBusinessLogic.pdb
+D:\ПроектыVS\Домофон\DoorPhone\AddPersonBusinessLogic\bin\Release\Model.dll
+D:\ПроектыVS\Домофон\DoorPhone\AddPersonBusinessLogic\bin\Release\Repository.dll
+D:\ПроектыVS\Домофон\DoorPhone\AddPersonBusinessLogic\bin\Release\Shared.dll
+D:\ПроектыVS\Домофон\DoorPhone\AddPersonBusinessLogic\bin\Release\Model.pdb
+D:\ПроектыVS\Домофон\DoorPhone\AddPersonBusinessLogic\bin\Release\Repository.pdb
+D:\ПроектыVS\Домофон\DoorPhone\AddPersonBusinessLogic\bin\Release\Repository.dll.config
+D:\ПроектыVS\Домофон\DoorPhone\AddPersonBusinessLogic\bin\Release\Shared.pdb
+D:\ПроектыVS\Домофон\DoorPhone\AddPersonBusinessLogic\obj\Release\BusinessLogic_AddPerson.csproj.AssemblyReference.cache
+D:\ПроектыVS\Домофон\DoorPhone\AddPersonBusinessLogic\obj\Release\BusinessLogic_AddPerson.csproj.CoreCompileInputs.cache
+D:\ПроектыVS\Домофон\DoorPhone\AddPersonBusinessLogic\obj\Release\BusinessLogic_AddPerson.csproj.CopyComplete
+D:\ПроектыVS\Домофон\DoorPhone\AddPersonBusinessLogic\obj\Release\AddPersonBusinessLogic.dll
+D:\ПроектыVS\Домофон\DoorPhone\AddPersonBusinessLogic\obj\Release\AddPersonBusinessLogic.pdb

@@ -1,0 +1,11 @@
+D:\ПроектыVS\Домофон\DoorPhone\AboutWindow\bin\Release\AboutWindow.exe.config
+D:\ПроектыVS\Домофон\DoorPhone\AboutWindow\bin\Release\AboutWindow.exe
+D:\ПроектыVS\Домофон\DoorPhone\AboutWindow\bin\Release\AboutWindow.pdb
+D:\ПроектыVS\Домофон\DoorPhone\AboutWindow\obj\Release\AboutWindow.csproj.AssemblyReference.cache
+D:\ПроектыVS\Домофон\DoorPhone\AboutWindow\obj\Release\AboutWindow.csproj.SuggestedBindingRedirects.cache
+D:\ПроектыVS\Домофон\DoorPhone\AboutWindow\obj\Release\AboutWindow.aboutWindow.resources
+D:\ПроектыVS\Домофон\DoorPhone\AboutWindow\obj\Release\AboutWindow.Properties.Resources.resources
+D:\ПроектыVS\Домофон\DoorPhone\AboutWindow\obj\Release\AboutWindow.csproj.GenerateResource.cache
+D:\ПроектыVS\Домофон\DoorPhone\AboutWindow\obj\Release\AboutWindow.csproj.CoreCompileInputs.cache
+D:\ПроектыVS\Домофон\DoorPhone\AboutWindow\obj\Release\AboutWindow.exe
+D:\ПроектыVS\Домофон\DoorPhone\AboutWindow\obj\Release\AboutWindow.pdb

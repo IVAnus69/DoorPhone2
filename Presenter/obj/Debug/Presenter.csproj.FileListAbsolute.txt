@@ -1,0 +1,11 @@
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\obj\Debug\Presenter.csproj.AssemblyReference.cache
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\obj\Debug\Presenter.csproj.CoreCompileInputs.cache
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\bin\Debug\Presenter.dll
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\bin\Debug\Presenter.pdb
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\bin\Debug\Model.dll
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\bin\Debug\Shared.dll
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\bin\Debug\Model.pdb
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\bin\Debug\Shared.pdb
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\obj\Debug\Presenter.csproj.CopyComplete
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\obj\Debug\Presenter.dll
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\obj\Debug\Presenter.pdb

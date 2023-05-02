@@ -1,0 +1,10 @@
+D:\ПроектыVS\Домофон\DoorPhone\Repository\bin\Debug\Repository.dll.config
+D:\ПроектыVS\Домофон\DoorPhone\Repository\bin\Debug\Repository.dll
+D:\ПроектыVS\Домофон\DoorPhone\Repository\bin\Debug\Repository.pdb
+D:\ПроектыVS\Домофон\DoorPhone\Repository\bin\Debug\Model.dll
+D:\ПроектыVS\Домофон\DoorPhone\Repository\bin\Debug\Model.pdb
+D:\ПроектыVS\Домофон\DoorPhone\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+D:\ПроектыVS\Домофон\DoorPhone\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+D:\ПроектыVS\Домофон\DoorPhone\Repository\obj\Debug\Repository.csproj.CopyComplete
+D:\ПроектыVS\Домофон\DoorPhone\Repository\obj\Debug\Repository.dll
+D:\ПроектыVS\Домофон\DoorPhone\Repository\obj\Debug\Repository.pdb

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DoorPhone">
+  <DataContextMoniker Name="/DoorPhoneDataContext" />
+  <nestedChildShapes>
+    <classShape Id="8c452d38-0092-4545-a5de-4c9c2ead2c2d" absoluteBounds="7.375, 2.125, 2, 2.5401025390625">
+      <DataClassMoniker Name="/DoorPhoneDataContext/Subscribers" />
+      <nestedChildShapes>
+        <elementListCompartment Id="33989f6d-f106-4ce1-af77-2bbc4fa4179f" absoluteBounds="7.39, 2.585, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="53746253-1857-415e-8708-23bf890b8077" absoluteBounds="3, 1.875, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/DoorPhoneDataContext/PaymentLog" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3d4d9812-fd18-470d-ab3b-57558ece948a" absoluteBounds="3.0149999999999997, 2.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(7.375 : 2.88544840494792); (5 : 2.88544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DoorPhoneDataContext/Subscribers/Subscribers_PaymentLog" />
+      <nodes>
+        <classShapeMoniker Id="8c452d38-0092-4545-a5de-4c9c2ead2c2d" />
+        <classShapeMoniker Id="53746253-1857-415e-8708-23bf890b8077" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

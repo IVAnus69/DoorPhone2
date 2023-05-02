@@ -1,0 +1,11 @@
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\bin\Release\Presenter.dll
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\bin\Release\Presenter.pdb
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\bin\Release\Model.dll
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\bin\Release\Shared.dll
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\bin\Release\Model.pdb
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\bin\Release\Shared.pdb
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\obj\Release\PresenterView.csproj.AssemblyReference.cache
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\obj\Release\PresenterView.csproj.CoreCompileInputs.cache
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\obj\Release\PresenterView.csproj.CopyComplete
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\obj\Release\Presenter.dll
+D:\ПроектыVS\Домофон\DoorPhone\Presenter\obj\Release\Presenter.pdb

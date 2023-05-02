@@ -1,0 +1,14 @@
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic\bin\Debug\AddWindow.exe
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic\bin\Debug\Model.dll
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic\bin\Debug\Shared.dll
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic\bin\Debug\AddWindow.pdb
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic\bin\Debug\AddWindow.exe.config
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic\bin\Debug\Model.pdb
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic\bin\Debug\Shared.pdb
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic\obj\Debug\BusinessLogic.pdb

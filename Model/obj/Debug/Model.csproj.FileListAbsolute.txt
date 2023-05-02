@@ -1,0 +1,6 @@
+D:\ПроектыVS\Домофон\DoorPhone\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\ПроектыVS\Домофон\DoorPhone\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\ПроектыVS\Домофон\DoorPhone\Model\bin\Debug\Model.dll
+D:\ПроектыVS\Домофон\DoorPhone\Model\bin\Debug\Model.pdb
+D:\ПроектыVS\Домофон\DoorPhone\Model\obj\Debug\Model.dll
+D:\ПроектыVS\Домофон\DoorPhone\Model\obj\Debug\Model.pdb
