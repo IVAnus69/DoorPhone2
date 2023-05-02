@@ -41,7 +41,7 @@ namespace Presenter
         }
         public void model_SelectedPerson(object sender, EventArgs e)
         {
-            
+            //проба
             view.SelectedPerson();
         }
     }
