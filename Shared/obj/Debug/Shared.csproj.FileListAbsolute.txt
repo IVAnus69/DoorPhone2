@@ -7,3 +7,12 @@ D:\ПроектыVS\Домофон\DoorPhone\Shared\bin\Debug\Model.pdb
 D:\ПроектыVS\Домофон\DoorPhone\Shared\obj\Debug\Shared.csproj.CopyComplete
 D:\ПроектыVS\Домофон\DoorPhone\Shared\obj\Debug\Shared.dll
 D:\ПроектыVS\Домофон\DoorPhone\Shared\obj\Debug\Shared.pdb
+C:\VS_PROJECTS\DoorPhone\Shared\bin\Debug\Shared.dll
+C:\VS_PROJECTS\DoorPhone\Shared\bin\Debug\Shared.pdb
+C:\VS_PROJECTS\DoorPhone\Shared\bin\Debug\Model.dll
+C:\VS_PROJECTS\DoorPhone\Shared\bin\Debug\Model.pdb
+C:\VS_PROJECTS\DoorPhone\Shared\obj\Debug\Shared.csproj.AssemblyReference.cache
+C:\VS_PROJECTS\DoorPhone\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\VS_PROJECTS\DoorPhone\Shared\obj\Debug\Shared.csproj.CopyComplete
+C:\VS_PROJECTS\DoorPhone\Shared\obj\Debug\Shared.dll
+C:\VS_PROJECTS\DoorPhone\Shared\obj\Debug\Shared.pdb

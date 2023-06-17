@@ -13,7 +13,9 @@ namespace Shared
         event EventHandler<PersonEventArgs> EventPersonSubmitChangesView;
 
         void UpdateComboBox(List<string> persons);
-        void SelectedPerson();
-        void SubmitChanges(PersonEventArgs eventArgs);
+        void SelectedPerson(string firstName, string lastName, string middleName,
+            string roomNum, string houseNum, string telephoneNumber, string street,
+            string mailAddress);
+        void SubmitChanges();
     }
 }

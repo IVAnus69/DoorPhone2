@@ -4,3 +4,9 @@ D:\ПроектыVS\Домофон\DoorPhone\Model\obj\Release\Model.csproj.Asse
 D:\ПроектыVS\Домофон\DoorPhone\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
 D:\ПроектыVS\Домофон\DoorPhone\Model\obj\Release\Model.dll
 D:\ПроектыVS\Домофон\DoorPhone\Model\obj\Release\Model.pdb
+C:\VS_PROJECTS\DoorPhone\Model\bin\Release\Model.dll
+C:\VS_PROJECTS\DoorPhone\Model\bin\Release\Model.pdb
+C:\VS_PROJECTS\DoorPhone\Model\obj\Release\Model.csproj.AssemblyReference.cache
+C:\VS_PROJECTS\DoorPhone\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+C:\VS_PROJECTS\DoorPhone\Model\obj\Release\Model.dll
+C:\VS_PROJECTS\DoorPhone\Model\obj\Release\Model.pdb

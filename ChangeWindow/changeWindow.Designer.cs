@@ -213,6 +213,7 @@
             this.submitChange.TabIndex = 34;
             this.submitChange.Text = "Сохранить изменения";
             this.submitChange.UseVisualStyleBackColor = true;
+            this.submitChange.Click += new System.EventHandler(this.submitChange_Click);
             // 
             // changeWindow
             // 

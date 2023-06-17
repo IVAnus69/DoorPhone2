@@ -8,3 +8,13 @@ D:\ПроектыVS\Домофон\DoorPhone\Repository\obj\Release\Repository.c
 D:\ПроектыVS\Домофон\DoorPhone\Repository\obj\Release\Repository.csproj.CopyComplete
 D:\ПроектыVS\Домофон\DoorPhone\Repository\obj\Release\Repository.dll
 D:\ПроектыVS\Домофон\DoorPhone\Repository\obj\Release\Repository.pdb
+C:\VS_PROJECTS\DoorPhone\Repository\bin\Release\Repository.dll.config
+C:\VS_PROJECTS\DoorPhone\Repository\bin\Release\Repository.dll
+C:\VS_PROJECTS\DoorPhone\Repository\bin\Release\Repository.pdb
+C:\VS_PROJECTS\DoorPhone\Repository\bin\Release\Model.dll
+C:\VS_PROJECTS\DoorPhone\Repository\bin\Release\Model.pdb
+C:\VS_PROJECTS\DoorPhone\Repository\obj\Release\Repository.csproj.AssemblyReference.cache
+C:\VS_PROJECTS\DoorPhone\Repository\obj\Release\Repository.csproj.CoreCompileInputs.cache
+C:\VS_PROJECTS\DoorPhone\Repository\obj\Release\Repository.csproj.CopyComplete
+C:\VS_PROJECTS\DoorPhone\Repository\obj\Release\Repository.dll
+C:\VS_PROJECTS\DoorPhone\Repository\obj\Release\Repository.pdb

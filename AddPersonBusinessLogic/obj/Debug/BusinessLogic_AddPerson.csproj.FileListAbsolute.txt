@@ -12,3 +12,17 @@ D:\ПроектыVS\Домофон\DoorPhone\AddPersonBusinessLogic\obj\Debug\Ad
 D:\ПроектыVS\Домофон\DoorPhone\AddPersonBusinessLogic\bin\Debug\Repository.dll
 D:\ПроектыVS\Домофон\DoorPhone\AddPersonBusinessLogic\bin\Debug\Repository.pdb
 D:\ПроектыVS\Домофон\DoorPhone\AddPersonBusinessLogic\bin\Debug\Repository.dll.config
+C:\VS_PROJECTS\DoorPhone\AddPersonBusinessLogic\bin\Debug\AddPersonBusinessLogic.dll
+C:\VS_PROJECTS\DoorPhone\AddPersonBusinessLogic\bin\Debug\AddPersonBusinessLogic.pdb
+C:\VS_PROJECTS\DoorPhone\AddPersonBusinessLogic\bin\Debug\Model.dll
+C:\VS_PROJECTS\DoorPhone\AddPersonBusinessLogic\bin\Debug\Repository.dll
+C:\VS_PROJECTS\DoorPhone\AddPersonBusinessLogic\bin\Debug\Shared.dll
+C:\VS_PROJECTS\DoorPhone\AddPersonBusinessLogic\bin\Debug\Model.pdb
+C:\VS_PROJECTS\DoorPhone\AddPersonBusinessLogic\bin\Debug\Repository.pdb
+C:\VS_PROJECTS\DoorPhone\AddPersonBusinessLogic\bin\Debug\Repository.dll.config
+C:\VS_PROJECTS\DoorPhone\AddPersonBusinessLogic\bin\Debug\Shared.pdb
+C:\VS_PROJECTS\DoorPhone\AddPersonBusinessLogic\obj\Debug\BusinessLogic_AddPerson.csproj.AssemblyReference.cache
+C:\VS_PROJECTS\DoorPhone\AddPersonBusinessLogic\obj\Debug\BusinessLogic_AddPerson.csproj.CoreCompileInputs.cache
+C:\VS_PROJECTS\DoorPhone\AddPersonBusinessLogic\obj\Debug\BusinessLogic_AddPerson.csproj.CopyComplete
+C:\VS_PROJECTS\DoorPhone\AddPersonBusinessLogic\obj\Debug\AddPersonBusinessLogic.dll
+C:\VS_PROJECTS\DoorPhone\AddPersonBusinessLogic\obj\Debug\AddPersonBusinessLogic.pdb

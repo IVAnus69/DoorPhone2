@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>R/Kw7N6mPogfKAo5qJ2dc/ZR/R0SEWCzkoMTxORc19w=</dsig:DigestValue>
+        <dsig:DigestValue>IRvFL490B7DRndHLrgkJ0a0Xd2bT+5kwnDVb45jd9fY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -90,14 +90,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BusinessLogic_ChangePerson.dll" size="6144">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BusinessLogic_ChangePerson.dll" size="7168">
       <assemblyIdentity name="BusinessLogic_ChangePerson" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ElL5Jx3MGeTewVRYKfFItj1FRcDpTKL+IZxAu0rDz6Y=</dsig:DigestValue>
+        <dsig:DigestValue>HmBZZJG6n13strK4W4iHEyEiXkJEFCWPLe+xzbOXBxI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -109,19 +109,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Xr+lZJhS7seCDWCD9SxwmHPhvwYvr59VEmNJPRcxnAM=</dsig:DigestValue>
+        <dsig:DigestValue>HY/yVThDfWjVVMwg2C8AvymO7rRp8VfiUAJZ8tDAJA4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ChangeWindow.exe" size="14336">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ChangeWindow.exe" size="15360">
       <assemblyIdentity name="ChangeWindow" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>4vWtlApQ4m9Fe2aiO3/GVN5+8V5A3/75M7Up68viWrk=</dsig:DigestValue>
+        <dsig:DigestValue>0hDJkgpPkizzI0liK4LmNQpm7+me2NlXPraYemFcLTA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -145,7 +145,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>yG54jadtknxYOwUEzeVkNuJ2dX8GDd/q5+MzgLXdBWA=</dsig:DigestValue>
+        <dsig:DigestValue>UyfMRudvmomk2rsbnv6/D9izq/Jya7bLbj1DlM8XWOg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -162,26 +162,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Presenter.dll" size="8192">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Presenter.dll" size="8704">
       <assemblyIdentity name="Presenter" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DyV59p/QO+4PZ8ozgCEgANnRlWqpePRRxAcebOKfUNE=</dsig:DigestValue>
+        <dsig:DigestValue>JPzKSI6dqFgrLz6MEczQ/QtxIAFZZxcP7xa780y9iKc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Repository.dll" size="20992">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Repository.dll" size="21504">
       <assemblyIdentity name="Repository" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>h4iEXr0WBoh1Uo8LLibxIiGv1ihCm2IuP3bDQdce770=</dsig:DigestValue>
+        <dsig:DigestValue>fT5BAWHzcA4TTa1UslTxFK/IAuUq1tyE+RN0egMJAo0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -193,7 +193,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>cdEV0HHvh73mTKhbKMeXZjjLOgUJowcJa4a8mdBwFY0=</dsig:DigestValue>
+        <dsig:DigestValue>XN427sz92DL6OCfBFwH5VuyiIwZz7SHtDHfNEO9xYYg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

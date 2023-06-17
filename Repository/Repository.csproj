@@ -42,6 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DoorPhone.cs">
+      <DependentUpon>DoorPhone.dbml</DependentUpon>
+    </Compile>
     <Compile Include="DoorPhone.designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>

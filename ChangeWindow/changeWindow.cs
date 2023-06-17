@@ -43,7 +43,10 @@ namespace ChangeWindow
         private void searchComboBox_SelectedIndexChanged(object sender, EventArgs e)
         {
             //searchLabel.Text = searchComboBox.Text;
-            EventPersonSelectedPersonView(this, new PersonEventArgs(searchComboBox.Text));
+            if (searchComboBox.Text.Trim() != "")
+            {
+                EventPersonSelectedPersonView(this, new PersonEventArgs(searchComboBox.Text));
+            }
         }
 
         public void UpdateComboBox(List<string> persons)
@@ -56,14 +59,33 @@ namespace ChangeWindow
             searchComboBox.AutoCompleteSource = AutoCompleteSource.ListItems;
         }
 
-        public void SelectedPerson()
+        public void SelectedPerson(string firstName, string lastName, string middleName,
+            string roomNum, string houseNum, string telephoneNumber, string street,
+            string mailAddress)
         {
-            
+            firstNameTextBox.Text = firstName.Trim();
+            lastNameTextBox.Text = lastName.Trim();
+            middleNameTextBox.Text = middleName.Trim();
+            roomNumTextBox.Text = roomNum.Trim();
+            houseNumTextBox.Text = houseNum.Trim();
+            telephoneNumTextBox.Text = telephoneNumber.Trim();
+            streetTextBox.Text = street.Trim();
+            mailAddrTextBox.Text = mailAddress.Trim();
         }
 
-        public void SubmitChanges(PersonEventArgs eventArgs)
+        public void SubmitChanges()
         {
-            
+            MessageBox.Show("Успешно");
+
+            this.Close();
+        }
+
+        private void submitChange_Click(object sender, EventArgs e)
+        {
+            EventPersonSubmitChangesView(this, new PersonEventArgs(lastNameTextBox.Text,
+                firstNameTextBox.Text, middleNameTextBox.Text, streetTextBox.Text,
+                houseNumTextBox.Text, roomNumTextBox.Text, telephoneNumTextBox.Text,
+                mailAddrTextBox.Text));
         }
     }
 }

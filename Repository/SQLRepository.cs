@@ -2,6 +2,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel.Design;
+using System.Data;
+using System.Data.Linq;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -16,6 +18,7 @@ namespace Repository
         IQueryable<Subscribers> query_checkHouse;
         IQueryable<Subscribers> query_checkRoom;
         IQueryable<Subscribers> query_checkPaymentLog;
+        IQueryable<Subscribers> query_checkUser;
 
         List<int> list = new List<int>();
         List<string> paymentList = new List<string>();
@@ -141,27 +144,57 @@ namespace Repository
         {
             var db = new DoorPhoneDataContext();
 
-            var query = from p in db.Subscribers where
+            query_checkUser = from p in db.Subscribers where
                         p.FirstName == person.FirstName &&
                         p.LastName == person.LastName && 
                         p.MiddleName == person.MiddleName 
                         select p;
 
+            var q = query_checkUser.FirstOrDefault();
+
             Person fullPerson = new Person();
-            foreach (var p in query)
-            {
-                fullPerson.FirstName = p.FirstName.Trim();
-                fullPerson.LastName = p.LastName.Trim();
-                fullPerson.MiddleName = p.MiddleName.Trim();
-                fullPerson.RoomNum = p.RoomNum.Trim();
-                fullPerson.HouseNum = p.HouseNum.Trim();
-                fullPerson.TelephoneNumber = p.TelephoneNumber.Trim();
-                fullPerson.Street = p.Street.Trim();
-                fullPerson.MailAddress = p.MailAddress.Trim();
-                break;
-            }
+
+            fullPerson.FirstName = q.FirstName.Trim();
+            fullPerson.LastName = q.LastName.Trim();
+            fullPerson.MiddleName = q.MiddleName.Trim();
+            fullPerson.RoomNum = q.RoomNum.Trim();
+            fullPerson.HouseNum = q.HouseNum.Trim();
+            fullPerson.TelephoneNumber = q.TelephoneNumber.Trim();
+            fullPerson.Street = q.Street.Trim();
+            fullPerson.MailAddress = q.MailAddress.Trim();
+
 
             return fullPerson;
+        }
+
+        public bool UpdatePerson(Person person)
+        {
+            var db = new DoorPhoneDataContext();
+            db.Log = Console.Out;
+
+            try
+            {
+                Subscribers subscriber = query_checkUser.SingleOrDefault();
+                int sub_id = subscriber.Id;
+                Subscribers sub = (from c in db.Subscribers where c.Id == sub_id select c).First();
+
+                sub.FirstName = person.FirstName.Trim();
+                sub.LastName = person.LastName.Trim();
+                sub.MiddleName = person.MiddleName.Trim();
+                sub.RoomNum = person.RoomNum.Trim();
+                sub.HouseNum = person.HouseNum.Trim();
+                sub.TelephoneNumber = person.TelephoneNumber.Trim();
+                sub.Street = person.Street.Trim();
+                sub.MailAddress = person.MailAddress.Trim();
+
+                db.SubmitChanges(ConflictMode.ContinueOnConflict);
+                Console.WriteLine(db);
+            }
+            catch 
+            {
+                return false;
+            }
+            return true;
         }
     }
 }

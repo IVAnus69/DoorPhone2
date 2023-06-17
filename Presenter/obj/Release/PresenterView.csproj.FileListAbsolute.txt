@@ -9,3 +9,14 @@ D:\ПроектыVS\Домофон\DoorPhone\Presenter\obj\Release\PresenterView
 D:\ПроектыVS\Домофон\DoorPhone\Presenter\obj\Release\PresenterView.csproj.CopyComplete
 D:\ПроектыVS\Домофон\DoorPhone\Presenter\obj\Release\Presenter.dll
 D:\ПроектыVS\Домофон\DoorPhone\Presenter\obj\Release\Presenter.pdb
+C:\VS_PROJECTS\DoorPhone\Presenter\bin\Release\Presenter.dll
+C:\VS_PROJECTS\DoorPhone\Presenter\bin\Release\Presenter.pdb
+C:\VS_PROJECTS\DoorPhone\Presenter\bin\Release\Model.dll
+C:\VS_PROJECTS\DoorPhone\Presenter\bin\Release\Shared.dll
+C:\VS_PROJECTS\DoorPhone\Presenter\bin\Release\Model.pdb
+C:\VS_PROJECTS\DoorPhone\Presenter\bin\Release\Shared.pdb
+C:\VS_PROJECTS\DoorPhone\Presenter\obj\Release\PresenterView.csproj.AssemblyReference.cache
+C:\VS_PROJECTS\DoorPhone\Presenter\obj\Release\PresenterView.csproj.CoreCompileInputs.cache
+C:\VS_PROJECTS\DoorPhone\Presenter\obj\Release\PresenterView.csproj.CopyComplete
+C:\VS_PROJECTS\DoorPhone\Presenter\obj\Release\Presenter.dll
+C:\VS_PROJECTS\DoorPhone\Presenter\obj\Release\Presenter.pdb
