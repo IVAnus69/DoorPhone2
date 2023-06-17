@@ -6,13 +6,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
+
 
 namespace BusinessLogic_ChangePerson
 {
     public class Logic : IChangePersonModel
     {
         public event EventHandler EventPersonUpdateComboBoxModel = delegate { };
-        public event EventHandler EventPersonSelectedPersonModel = delegate { };
+        public event EventHandler <PersonEventArgs> EventPersonSelectedPersonModel = delegate { };
+        public event EventHandler EventPersonSubmitChanges;
+
         SQLRepository sqlRepository = new SQLRepository();
 
         public void CheckPerson(Person person)
@@ -24,7 +28,14 @@ namespace BusinessLogic_ChangePerson
         public void SelectedPerson(Person person)
         {
             var fullPerson = sqlRepository.SelectedPerson(person);
-            EventPersonSelectedPersonModel(person, new EventArgs());
+            EventPersonSelectedPersonModel(this, new PersonEventArgs(fullPerson));
+        }
+
+        public void SubmitChanges(Person person)
+        {
+            bool condition = sqlRepository.UpdatePerson(person);
+            if (condition) EventPersonSubmitChanges(this, new EventArgs());
+            else MessageBox.Show("Не получилось обновить обонента", "Ошибка!");
         }
     }
 }

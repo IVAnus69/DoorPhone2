@@ -4,3 +4,9 @@ D:\ПроектыVS\Домофон\DoorPhone\Model\bin\Debug\Model.dll
 D:\ПроектыVS\Домофон\DoorPhone\Model\bin\Debug\Model.pdb
 D:\ПроектыVS\Домофон\DoorPhone\Model\obj\Debug\Model.dll
 D:\ПроектыVS\Домофон\DoorPhone\Model\obj\Debug\Model.pdb
+C:\VS_PROJECTS\DoorPhone\Model\bin\Debug\Model.dll
+C:\VS_PROJECTS\DoorPhone\Model\bin\Debug\Model.pdb
+C:\VS_PROJECTS\DoorPhone\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\VS_PROJECTS\DoorPhone\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\VS_PROJECTS\DoorPhone\Model\obj\Debug\Model.dll
+C:\VS_PROJECTS\DoorPhone\Model\obj\Debug\Model.pdb

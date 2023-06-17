@@ -10,8 +10,10 @@ namespace Model
     public interface IChangePersonModel
     {
         event EventHandler EventPersonUpdateComboBoxModel;
-        event EventHandler EventPersonSelectedPersonModel;
+        event EventHandler <PersonEventArgs> EventPersonSelectedPersonModel;
+        event EventHandler EventPersonSubmitChanges;
         void CheckPerson(Person person);
         void SelectedPerson(Person person);
+        void SubmitChanges(Person person);
     }
 }

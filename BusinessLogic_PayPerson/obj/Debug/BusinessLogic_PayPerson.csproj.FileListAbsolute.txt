@@ -10,3 +10,15 @@ D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic_PayPerson\obj\Debug\B
 D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic_PayPerson\obj\Debug\BusinessLogic_PayPerson.csproj.CopyComplete
 D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic_PayPerson\obj\Debug\BusinessLogic_PayPerson.dll
 D:\ПроектыVS\Домофон\DoorPhone\BusinessLogic_PayPerson\obj\Debug\BusinessLogic_PayPerson.pdb
+C:\VS_PROJECTS\DoorPhone\BusinessLogic_PayPerson\bin\Debug\BusinessLogic_PayPerson.dll
+C:\VS_PROJECTS\DoorPhone\BusinessLogic_PayPerson\bin\Debug\BusinessLogic_PayPerson.pdb
+C:\VS_PROJECTS\DoorPhone\BusinessLogic_PayPerson\bin\Debug\Model.dll
+C:\VS_PROJECTS\DoorPhone\BusinessLogic_PayPerson\bin\Debug\Repository.dll
+C:\VS_PROJECTS\DoorPhone\BusinessLogic_PayPerson\bin\Debug\Model.pdb
+C:\VS_PROJECTS\DoorPhone\BusinessLogic_PayPerson\bin\Debug\Repository.pdb
+C:\VS_PROJECTS\DoorPhone\BusinessLogic_PayPerson\bin\Debug\Repository.dll.config
+C:\VS_PROJECTS\DoorPhone\BusinessLogic_PayPerson\obj\Debug\BusinessLogic_PayPerson.csproj.AssemblyReference.cache
+C:\VS_PROJECTS\DoorPhone\BusinessLogic_PayPerson\obj\Debug\BusinessLogic_PayPerson.csproj.CoreCompileInputs.cache
+C:\VS_PROJECTS\DoorPhone\BusinessLogic_PayPerson\obj\Debug\BusinessLogic_PayPerson.csproj.CopyComplete
+C:\VS_PROJECTS\DoorPhone\BusinessLogic_PayPerson\obj\Debug\BusinessLogic_PayPerson.dll
+C:\VS_PROJECTS\DoorPhone\BusinessLogic_PayPerson\obj\Debug\BusinessLogic_PayPerson.pdb
